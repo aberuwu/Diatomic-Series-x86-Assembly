@@ -17,7 +17,7 @@ Source: WolframMathWorld
 
 Diatomic Series Output:  0,1,1,2,1,3,2,3,1,4,...<br/>
 
-# x86 Implementation
+# High Level Implementation
 In a high level language such as C++, the Diatomic Series can be calculated in a few lines of code.  This x86 implementation aims to demonstrate the usage of assembly and reflect on the complexity of how such trivial programs written in high level languages must be broken down into several smaller steps in order to achieve the same output.<br/>
 
 Example of Stern's Diatomic Series written in C++ (Program will print out the first 100 values)...<br/>
