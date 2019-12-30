@@ -11,8 +11,7 @@ p(n) = p((n-1)/2) + p(n+1)/2)  <- n is an odd number<br/>
 
 where p(0) = 0 & p(1) = 1<br/>
 
-![alt text](http://mathworld.wolfram.com/images/equations/SternsDiatomicSeries/NumberedEquation2.gif)<br/>
-![alt text](http://mathworld.wolfram.com/images/equations/SternsDiatomicSeries/NumberedEquation3.gif)<br/>
+![alt text](http://mathworld.wolfram.com/images/eps-gif/SternsDiatomicSeries_1000.gif)<br/>
 Source: WolframMathWorld
 
 
