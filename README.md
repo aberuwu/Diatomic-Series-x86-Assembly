@@ -1,6 +1,8 @@
 # Diatomic-Series-x86-Assembly
 x86 Assembly program using the Irvine Library that calculates the first 100 values of Stern's diatomic series <br/>
 
+Pre-Requisits: Irvine.32 Library must be installed in order to run this program<br/>
+
 # Stern's Diatomic Series Defenition
 Stern's Diatomic series is a sequence that arises within the Calkin Wilf tree in which vertices correspond one-to-one to the positive rational numbers.<br/>
 
