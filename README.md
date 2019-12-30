@@ -16,9 +16,9 @@ where p(0) = 0 & p(1) = 1<br/>
 ![alt text](http://mathworld.wolfram.com/images/eps-gif/SternsDiatomicSeries_1000.gif)<br/>
 Recurrence Equation: <br/>
 ![alt text](http://mathworld.wolfram.com/images/equations/SternsDiatomicSeries/NumberedEquation2.gif)<br/>
-Sum Equation <br/>
+Sum Equation: <br/>
 ![alt text](http://mathworld.wolfram.com/images/equations/SternsDiatomicSeries/NumberedEquation3.gif)<br/>
-Source: WolframMathWorld
+Source: WolframMathWorld<br/>
 
 
 Diatomic Series Output:  0,1,1,2,1,3,2,3,1,4,...<br/>
