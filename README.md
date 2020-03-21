@@ -9,7 +9,7 @@ Stern's Diatomic series is a sequence that arises within the Calkin Wilf tree in
 The Diatomic Series is defined as follows... <br/>
 
 p(n) = p(n/2)   <- n is an even number<br/>
-p(n) = p((n-1)/2) + p(n+1)/2)  <- n is an odd number<br/>
+p(n) = p((n-1)/2) + p((n+1)/2)  <- n is an odd number<br/>
 
 where p(0) = 0 & p(1) = 1<br/>
 
